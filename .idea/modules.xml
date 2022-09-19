@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Api-Gateway/Api-Gateway.iml" filepath="$PROJECT_DIR$/Api-Gateway/Api-Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CitizenService/CitizenService.iml" filepath="$PROJECT_DIR$/CitizenService/CitizenService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Micro-Servics.iml" filepath="$PROJECT_DIR$/.idea/Micro-Servics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VaccinationCenter/VaccinationCenter.iml" filepath="$PROJECT_DIR$/VaccinationCenter/VaccinationCenter.iml" />
+    </modules>
+  </component>
+</project>
